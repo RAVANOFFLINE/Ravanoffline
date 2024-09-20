@@ -1,2 +1,2 @@
-hindi.txt
+NP.txt
 
